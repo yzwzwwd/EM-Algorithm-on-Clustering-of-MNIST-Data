@@ -1,5 +1,5 @@
 # EM-Algorithm-on-Clustering-of-MNIST-Data
-Zhiwei Wang
+Zhiwei Wang & Yuxiang Lin
 
 **Main Tasks:**  
 - Read the MINST data set in binary, and convert each image into a pixel value vector with a feature number of 784 as well as the label  
